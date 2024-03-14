@@ -1,0 +1,260 @@
+0001949965-23-000004.txt : 20231024
+0001949965-23-000004.hdr.sgml : 20231024
+20231024161203
+ACCESSION NUMBER:		0001949965-23-000004
+CONFORMED SUBMISSION TYPE:	D/A
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+FILED AS OF DATE:		20231024
+DATE AS OF CHANGE:		20231024
+EFFECTIVENESS DATE:		20231024
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARADATUM, INC
+		CENTRAL INDEX KEY:			0001949965
+		IRS NUMBER:				853743502
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-463134
+		FILM NUMBER:		231342826
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7627 PARK PLACE
+		CITY:			BRIGHTON
+		STATE:			MI
+		ZIP:			48116
+		BUSINESS PHONE:		248-446-1344
+
+	MAIL ADDRESS:	
+		STREET 1:		7627 PARK PLACE
+		CITY:			BRIGHTON
+		STATE:			MI
+		ZIP:			48116
+
+
+D/A
+1
+primary_doc.xml
+
+
+
+
+X0708
+D/A
+LIVE
+
+0001949965
+ARADATUM, INC
+
+7627 PARK PLACE
+BRIGHTON
+MI
+MICHIGAN
+48116
+
+248-446-1344
+DELAWARE
+
+None
+
+
+None
+
+Corporation
+
+true
+2020
+
+
+
+
+
+Bryan
+J
+Zaplitny
+
+
+7627 Park Place
+Brighton
+MI
+MICHIGAN
+48116
+
+
+Executive Officer
+Director
+
+
+
+
+
+Larry
+J
+Leete
+
+
+7627 Park Place
+Brighton
+MI
+MICHIGAN
+48116
+
+
+Executive Officer
+
+
+
+
+
+Mark
+J
+Cecil
+
+
+7627 Park Place
+Brighton
+MI
+MICHIGAN
+48116
+
+
+Director
+
+
+
+
+
+Paul
+J
+Schneider
+
+
+7627 Park Place
+Brighton
+MI
+MICHIGAN
+48116
+
+
+Executive Officer
+
+
+
+
+
+Michael
+J
+Pollakowski
+
+
+7627 Park Place
+Brighton
+MI
+MICHIGAN
+48116
+
+
+Director
+
+
+
+
+
+Craig
+J
+Hancock
+
+
+7627 Park Place
+Brighton
+MI
+MICHIGAN
+48116
+
+
+Director
+
+
+
+
+
+
+Other Energy
+
+
+Decline to Disclose
+
+
+06b
+
+
+
+true
+0001949965-22-000004
+
+
+true
+
+
+
+true
+
+
+true
+true
+true
+true
+
+
+false
+
+
+100000
+
+
+Indefinite
+0
+Indefinite
+
+
+
+false
+0
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+ARADATUM, INC
+Harold Telners
+Harold Telners
+Controller
+2023-10-24
+
+
+
+
+
+
+
+

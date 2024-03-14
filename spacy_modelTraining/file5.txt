@@ -1,0 +1,194 @@
+0001989136-23-000001.txt : 20230809
+0001989136-23-000001.hdr.sgml : 20230809
+20230809124733
+ACCESSION NUMBER:		0001989136-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(1)
+FILED AS OF DATE:		20230809
+DATE AS OF CHANGE:		20230809
+EFFECTIVENESS DATE:		20230809
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Lane5Vu a Series of CGF2021 LLC
+		CENTRAL INDEX KEY:			0001989136
+		IRS NUMBER:				932217193
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-489213
+		FILM NUMBER:		231154308
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2093 PHILADELPHIA PIKE
+		STREET 2:		5885
+		CITY:			CLAYMONT
+		STATE:			DE
+		ZIP:			19703
+		BUSINESS PHONE:		(360) 946-0604
+
+	MAIL ADDRESS:	
+		STREET 1:		2093 PHILADELPHIA PIKE
+		STREET 2:		5885
+		CITY:			CLAYMONT
+		STATE:			DE
+		ZIP:			19703
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001989136
+Lane5Vu a Series of CGF2021 LLC
+
+2093 PHILADELPHIA PIKE
+5885
+CLAYMONT
+DE
+DELAWARE
+19703
+
+(360) 946-0604
+DELAWARE
+
+None
+
+
+None
+
+Limited Liability Company
+
+true
+2023
+
+
+
+
+
+LLC
+Sydecar
+
+
+2093 Philadelphia Pike
+#5885
+Claymont
+DE
+DELAWARE
+19703
+
+
+Director
+
+Administrator of the Issuer
+
+
+
+Taylor
+Hughes
+
+
+c/o sydecar LLC
+2093 Philadelphia Pike #5885
+Claymont
+DE
+DELAWARE
+19703
+
+
+Executive Officer
+
+Officer of the Issuer's Administrator
+
+
+
+
+Pooled Investment Fund
+
+Venture Capital Fund
+false
+
+
+
+Decline to Disclose
+
+
+06b
+3C
+3C.1
+
+
+
+false
+
+
+2023-07-28
+
+
+
+false
+
+
+true
+
+
+false
+
+
+0
+
+
+296100
+296100
+0
+
+
+
+false
+8
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+This amount represents a cost to cover fund organizational and operating expenses.
+
+
+false
+
+Lane5Vu a Series of CGF2021 LLC
+/s/ Taylor Hughes
+Taylor Hughes
+General Manager of the Administrator
+2023-08-09
+
+
+
+
+
+
+
+

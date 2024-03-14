@@ -1,0 +1,299 @@
+0001879128-23-000002.txt : 20230302
+0001879128-23-000002.hdr.sgml : 20230302
+20230302100915
+ACCESSION NUMBER:		0001879128-23-000002
+CONFORMED SUBMISSION TYPE:	D/A
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+FILED AS OF DATE:		20230302
+DATE AS OF CHANGE:		20230302
+EFFECTIVENESS DATE:		20230302
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Quilt Holdco, Inc.
+		CENTRAL INDEX KEY:			0001879128
+		IRS NUMBER:				863647355
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-437065
+		FILM NUMBER:		23696829
+
+	BUSINESS ADDRESS:	
+		STREET 1:		135 W. 50TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			02215
+		BUSINESS PHONE:		646-637-6147
+
+	MAIL ADDRESS:	
+		STREET 1:		135 W. 50TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			02215
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Quilt Holdings, LP
+		CENTRAL INDEX KEY:			0001879138
+		IRS NUMBER:				863616201
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-437065-01
+		FILM NUMBER:		23696830
+
+	BUSINESS ADDRESS:	
+		STREET 1:		135 W. 50TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+		BUSINESS PHONE:		646-637-6147
+
+	MAIL ADDRESS:	
+		STREET 1:		135 W. 50TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+
+
+D/A
+1
+primary_doc.xml
+
+
+
+
+X0708
+D/A
+LIVE
+
+0001879128
+Quilt Holdco, Inc.
+
+135 W. 50TH STREET
+NEW YORK
+NY
+NEW YORK
+02215
+
+646-637-6147
+DELAWARE
+
+None
+
+
+None
+
+Corporation
+
+true
+2021
+
+
+
+
+0001879138
+Quilt Holdings, LP
+
+135 W. 50TH STREET
+NEW YORK
+NY
+NEW YORK
+10020
+
+646-637-6147
+DELAWARE
+
+None
+
+
+None
+
+Limited Partnership
+
+true
+2021
+
+
+
+
+
+
+-
+Quilt Holdco GP, LLC
+
+
+135 W. 50th Street
+New York
+NY
+NEW YORK
+10020
+
+
+Director
+
+General Partner of Quilt Holdings, LP
+
+
+
+Andrew
+Stern
+
+
+135 W. 50th Street
+New York
+NY
+NEW YORK
+10020
+
+
+Executive Officer
+
+Chief Executive Officer of Quilt Holdco, Inc. and Quilt Holdings, LP
+
+
+
+Jeremy
+Sokolic
+
+
+135 W. 50th Street
+New York
+NY
+NEW YORK
+10020
+
+
+Executive Officer
+
+President of Quilt Holdco, Inc. and Quilt Holdings, LP
+
+
+
+Zepeng (Jimmy)
+Guan
+
+
+135 W. 50th Street
+New York
+NY
+NEW YORK
+10020
+
+
+Director
+
+Director of Quilt Holdco, Inc.
+
+
+
+John
+Marquis
+
+
+135 W. 50th Street
+New York
+NY
+NEW YORK
+10020
+
+
+Executive Officer
+Director
+
+Vice President and Director of Quilt Holdco, Inc. and Vice President of Quilt Holdings, LP
+
+
+
+
+Other Technology
+
+
+Decline to Disclose
+
+
+06b
+
+
+
+true
+0001879128-22-000002
+
+
+2022-03-03
+
+
+
+true
+
+
+true
+true
+true
+true
+In an acquisition transaction, Quilt Holdco, Inc. has issued a right to purchase Notes (defined in #10). When issued, the Notes will convert into common stock of Quilt Holdco, Inc. and then immediately convert into Common Units of Quilt Holdings, LP.
+
+
+true
+Quilt Holdco, Inc. ("Holdco") will issue Subordinated Convertible Promissory Notes ("Notes") if certain earn-out thresholds are met. When issued the Notes will convert into Holdco common stock and immediately convert into Quilt Holdings, LP Common Units
+
+0
+
+
+4000000
+4000000
+0
+
+
+
+false
+1
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Quilt Holdco, Inc.
+/s/ Andrew Stern
+Andrew Stern
+Chief Executive Officer
+2023-03-02
+
+
+Quilt Holdings, LP
+/s/ Andrew Stern
+Andrew Stern
+Chief Executive Officer
+2023-03-02
+
+
+
+
+
+
+
+

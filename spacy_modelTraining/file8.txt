@@ -1,0 +1,165 @@
+0001981898-23-000001.txt : 20230621
+0001981898-23-000001.hdr.sgml : 20230621
+20230620191238
+ACCESSION NUMBER:		0001981898-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06c
+FILED AS OF DATE:		20230621
+DATE AS OF CHANGE:		20230620
+EFFECTIVENESS DATE:		20230621
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ace Private Fund LLC
+		CENTRAL INDEX KEY:			0001981898
+		IRS NUMBER:				922690517
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-484684
+		FILM NUMBER:		231027003
+
+	BUSINESS ADDRESS:	
+		STREET 1:		14001 W STATE HWY 29 SUITE 102
+		CITY:			LIBERTY HILL
+		STATE:			TX
+		ZIP:			78642
+		BUSINESS PHONE:		(832) 219-8888
+
+	MAIL ADDRESS:	
+		STREET 1:		14001 W STATE HWY 29 SUITE 102
+		CITY:			LIBERTY HILL
+		STATE:			TX
+		ZIP:			78642
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001981898
+Ace Private Fund LLC
+
+14001 W STATE HWY 29 SUITE 102
+LIBERTY HILL
+TX
+TEXAS
+78642
+
+(832) 219-8888
+TEXAS
+
+None
+
+
+None
+
+Limited Liability Company
+
+true
+2023
+
+
+
+
+
+Christian
+Albert
+
+
+11010 Dumbreck Drive
+Richmond
+TX
+TEXAS
+77407
+
+
+Executive Officer
+
+
+
+
+
+
+REITS and Finance
+
+
+No Revenues
+
+
+06c
+
+
+
+false
+
+
+true
+
+
+
+true
+
+
+true
+
+
+false
+
+
+25000
+
+
+100000000
+0
+100000000
+
+
+
+false
+0
+
+
+
+0
+
+
+0
+
+
+
+
+
+100000
+true
+
+
+
+
+false
+
+Ace Private Fund LLC
+/bem/
+Bruce E. Methven
+Attorney
+2023-06-20
+
+
+
+
+
+
+
+

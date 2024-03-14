@@ -1,0 +1,4374 @@
+0001999975-23-000001.txt : 20231106
+0001999975-23-000001.hdr.sgml : 20231106
+20231106164444
+ACCESSION NUMBER:		0001999975-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+FILED AS OF DATE:		20231106
+DATE AS OF CHANGE:		20231106
+EFFECTIVENESS DATE:		20231106
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Barnyard Games, Inc.
+		CENTRAL INDEX KEY:			0001999975
+		IRS NUMBER:				933634395
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-496582
+		FILM NUMBER:		231380511
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1318 CAMINITO LAURA
+		CITY:			ENCINITAS
+		STATE:			CA
+		ZIP:			92024
+		BUSINESS PHONE:		8583959820
+
+	MAIL ADDRESS:	
+		STREET 1:		1318 CAMINITO LAURA
+		CITY:			ENCINITAS
+		STATE:			CA
+		ZIP:			92024
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001999975
+Barnyard Games, Inc.
+
+1318 CAMINITO LAURA
+ENCINITAS
+CA
+CALIFORNIA
+92024
+
+8583959820
+DELAWARE
+
+None
+
+
+None
+
+Corporation
+
+true
+2023
+
+
+
+
+
+Matthew
+Armstrong
+
+
+1318 Caminito Laura
+Encinitas
+CA
+CALIFORNIA
+92024
+
+
+Promoter
+
+
+
+
+
+John
+Blakely
+
+
+1318 Caminito Laura
+Encinitas
+CA
+CALIFORNIA
+92024
+
+
+Executive Officer
+Director
+Promoter
+
+
+
+
+
+Mark
+Cieslar
+
+
+1318 Caminito Laura
+Encinitas
+CA
+CALIFORNIA
+92024
+
+
+Promoter
+
+
+
+
+
+Christopher
+Sturr
+
+
+1318 Caminito Laura
+Encinitas
+CA
+CALIFORNIA
+92024
+
+
+Executive Officer
+Director
+Promoter
+
+
+
+
+
+
+Other Technology
+
+
+Decline to Disclose
+
+
+06b
+
+
+
+false
+
+
+2023-10-20
+
+
+
+false
+
+
+true
+
+
+false
+
+
+0
+
+
+3380000
+3380000
+0
+
+
+
+false
+13
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Barnyard Games, Inc.
+John Blakely
+John Blakely
+CEO
+2023-11-06
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0001949965-23-000004.txt : 20231024
+0001949965-23-000004.hdr.sgml : 20231024
+20231024161203
+ACCESSION NUMBER:		0001949965-23-000004
+CONFORMED SUBMISSION TYPE:	D/A
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+FILED AS OF DATE:		20231024
+DATE AS OF CHANGE:		20231024
+EFFECTIVENESS DATE:		20231024
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			ARADATUM, INC
+		CENTRAL INDEX KEY:			0001949965
+		IRS NUMBER:				853743502
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-463134
+		FILM NUMBER:		231342826
+
+	BUSINESS ADDRESS:	
+		STREET 1:		7627 PARK PLACE
+		CITY:			BRIGHTON
+		STATE:			MI
+		ZIP:			48116
+		BUSINESS PHONE:		248-446-1344
+
+	MAIL ADDRESS:	
+		STREET 1:		7627 PARK PLACE
+		CITY:			BRIGHTON
+		STATE:			MI
+		ZIP:			48116
+
+
+D/A
+1
+primary_doc.xml
+
+
+
+
+X0708
+D/A
+LIVE
+
+0001949965
+ARADATUM, INC
+
+7627 PARK PLACE
+BRIGHTON
+MI
+MICHIGAN
+48116
+
+248-446-1344
+DELAWARE
+
+None
+
+
+None
+
+Corporation
+
+true
+2020
+
+
+
+
+
+Bryan
+J
+Zaplitny
+
+
+7627 Park Place
+Brighton
+MI
+MICHIGAN
+48116
+
+
+Executive Officer
+Director
+
+
+
+
+
+Larry
+J
+Leete
+
+
+7627 Park Place
+Brighton
+MI
+MICHIGAN
+48116
+
+
+Executive Officer
+
+
+
+
+
+Mark
+J
+Cecil
+
+
+7627 Park Place
+Brighton
+MI
+MICHIGAN
+48116
+
+
+Director
+
+
+
+
+
+Paul
+J
+Schneider
+
+
+7627 Park Place
+Brighton
+MI
+MICHIGAN
+48116
+
+
+Executive Officer
+
+
+
+
+
+Michael
+J
+Pollakowski
+
+
+7627 Park Place
+Brighton
+MI
+MICHIGAN
+48116
+
+
+Director
+
+
+
+
+
+Craig
+J
+Hancock
+
+
+7627 Park Place
+Brighton
+MI
+MICHIGAN
+48116
+
+
+Director
+
+
+
+
+
+
+Other Energy
+
+
+Decline to Disclose
+
+
+06b
+
+
+
+true
+0001949965-22-000004
+
+
+true
+
+
+
+true
+
+
+true
+true
+true
+true
+
+
+false
+
+
+100000
+
+
+Indefinite
+0
+Indefinite
+
+
+
+false
+0
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+ARADATUM, INC
+Harold Telners
+Harold Telners
+Controller
+2023-10-24
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0001894153-23-000001.txt : 20230911
+0001894153-23-000001.hdr.sgml : 20230911
+20230911093500
+ACCESSION NUMBER:		0001894153-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+FILED AS OF DATE:		20230911
+DATE AS OF CHANGE:		20230911
+EFFECTIVENESS DATE:		20230911
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Nomax Therapeutics, Inc
+		CENTRAL INDEX KEY:			0001894153
+		IRS NUMBER:				862188907
+		STATE OF INCORPORATION:			FL
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-491752
+		FILM NUMBER:		231246979
+
+	BUSINESS ADDRESS:	
+		STREET 1:		3363 NE 163 STREET
+		STREET 2:		SUITE 708 D
+		CITY:			NORTH MIAMI BEACH
+		STATE:			FL
+		ZIP:			33160
+		BUSINESS PHONE:		305-331-1213
+
+	MAIL ADDRESS:	
+		STREET 1:		3363 NE 163 STREET
+		STREET 2:		SUITE 708 D
+		CITY:			NORTH MIAMI BEACH
+		STATE:			FL
+		ZIP:			33160
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Nomax Therapeitics, Inc
+		DATE OF NAME CHANGE:	20211116
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001894153
+Nomax Therapeutics, Inc
+
+3363 NE 163 STREET
+SUITE 708 D
+NORTH MIAMI BEACH
+FL
+FLORIDA
+33160
+
+305-331-1213
+FLORIDA
+
+Nomax Therapeitics, Inc
+
+Corporation
+
+true
+2021
+
+
+
+
+
+Max
+Temnik
+
+
+3363 SE 163rd Street
+Ste 708 D
+Nort Miami Beach
+FL
+FLORIDA
+33160
+
+
+Executive Officer
+
+
+
+
+
+
+Biotechnology
+
+
+No Revenues
+
+
+06b
+
+
+
+false
+
+
+2021-10-18
+
+
+
+true
+
+
+true
+
+
+false
+
+
+1000000
+
+
+10000000
+534200
+9465800
+
+
+
+false
+1
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Nomax Therapeutics, Inc
+Max Temnik
+Max Temnik
+President
+2023-09-11
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0001988284-23-000001.txt : 20230906
+0001988284-23-000001.hdr.sgml : 20230906
+20230906155930
+ACCESSION NUMBER:		0001988284-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+FILED AS OF DATE:		20230906
+DATE AS OF CHANGE:		20230906
+EFFECTIVENESS DATE:		20230906
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TDO Enterprises, LLC
+		CENTRAL INDEX KEY:			0001988284
+		IRS NUMBER:				932260909
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-491456
+		FILM NUMBER:		231239079
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 W. ILLINOIS AVE., SUITE 602
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79701
+		BUSINESS PHONE:		(432) 664-0481
+
+	MAIL ADDRESS:	
+		STREET 1:		500 W. ILLINOIS AVE., SUITE 602
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79701
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001988284
+TDO Enterprises, LLC
+
+500 W. ILLINOIS AVE., SUITE 602
+MIDLAND
+TX
+TEXAS
+79701
+
+(432) 664-0481
+TEXAS
+
+None
+
+
+None
+
+Limited Liability Company
+
+true
+2023
+
+
+
+
+
+David
+Fowler
+
+
+500 W. Illinois Ave., Suite 602
+Midland
+TX
+TEXAS
+79701
+
+
+Director
+
+Manager of the Management Company of the Issuer (TDO Management, LLC)
+
+
+
+
+Other
+
+
+Decline to Disclose
+
+
+06b
+
+
+
+false
+
+
+2023-08-28
+
+
+
+false
+
+
+true
+
+
+false
+
+
+25000
+
+
+17836742
+17836742
+0
+
+
+
+true
+25
+47
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+TDO Enterprises, LLC
+/s/ David Fowler
+David Fowler
+Manager of the Management Company of the Issuer
+2023-09-01
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0001989136-23-000001.txt : 20230809
+0001989136-23-000001.hdr.sgml : 20230809
+20230809124733
+ACCESSION NUMBER:		0001989136-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(1)
+FILED AS OF DATE:		20230809
+DATE AS OF CHANGE:		20230809
+EFFECTIVENESS DATE:		20230809
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Lane5Vu a Series of CGF2021 LLC
+		CENTRAL INDEX KEY:			0001989136
+		IRS NUMBER:				932217193
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-489213
+		FILM NUMBER:		231154308
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2093 PHILADELPHIA PIKE
+		STREET 2:		5885
+		CITY:			CLAYMONT
+		STATE:			DE
+		ZIP:			19703
+		BUSINESS PHONE:		(360) 946-0604
+
+	MAIL ADDRESS:	
+		STREET 1:		2093 PHILADELPHIA PIKE
+		STREET 2:		5885
+		CITY:			CLAYMONT
+		STATE:			DE
+		ZIP:			19703
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001989136
+Lane5Vu a Series of CGF2021 LLC
+
+2093 PHILADELPHIA PIKE
+5885
+CLAYMONT
+DE
+DELAWARE
+19703
+
+(360) 946-0604
+DELAWARE
+
+None
+
+
+None
+
+Limited Liability Company
+
+true
+2023
+
+
+
+
+
+LLC
+Sydecar
+
+
+2093 Philadelphia Pike
+#5885
+Claymont
+DE
+DELAWARE
+19703
+
+
+Director
+
+Administrator of the Issuer
+
+
+
+Taylor
+Hughes
+
+
+c/o sydecar LLC
+2093 Philadelphia Pike #5885
+Claymont
+DE
+DELAWARE
+19703
+
+
+Executive Officer
+
+Officer of the Issuer's Administrator
+
+
+
+
+Pooled Investment Fund
+
+Venture Capital Fund
+false
+
+
+
+Decline to Disclose
+
+
+06b
+3C
+3C.1
+
+
+
+false
+
+
+2023-07-28
+
+
+
+false
+
+
+true
+
+
+false
+
+
+0
+
+
+296100
+296100
+0
+
+
+
+false
+8
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+This amount represents a cost to cover fund organizational and operating expenses.
+
+
+false
+
+Lane5Vu a Series of CGF2021 LLC
+/s/ Taylor Hughes
+Taylor Hughes
+General Manager of the Administrator
+2023-08-09
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0001977758-23-000001.txt : 20230803
+0001977758-23-000001.hdr.sgml : 20230803
+20230803170333
+ACCESSION NUMBER:		0001977758-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(1)
+FILED AS OF DATE:		20230803
+DATE AS OF CHANGE:		20230803
+EFFECTIVENESS DATE:		20230803
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ohio Innovation Fund II, L.P.
+		CENTRAL INDEX KEY:			0001977758
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-488715
+		FILM NUMBER:		231141071
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6515 LONGSHORE LOOP, SUITE 100
+		CITY:			DUBLIN
+		STATE:			OH
+		ZIP:			43017
+		BUSINESS PHONE:		(408) 550-5342
+
+	MAIL ADDRESS:	
+		STREET 1:		6515 LONGSHORE LOOP, SUITE 100
+		CITY:			DUBLIN
+		STATE:			OH
+		ZIP:			43017
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001977758
+Ohio Innovation Fund II, L.P.
+
+6515 LONGSHORE LOOP, SUITE 100
+DUBLIN
+OH
+OHIO
+43017
+
+(408) 550-5342
+DELAWARE
+
+None
+
+
+None
+
+Limited Partnership
+
+true
+2023
+
+
+
+
+
+Ohio Innovation Management II, L.L.C.
+N/A
+
+
+6515 Longshore Loop, Suite 100
+Dublin
+OH
+OHIO
+43017
+
+
+Promoter
+
+General Partner of the Issuer
+
+
+
+
+Pooled Investment Fund
+
+Venture Capital Fund
+false
+
+
+
+Not Applicable
+
+
+3C
+3C.1
+
+
+
+false
+
+
+true
+
+
+
+false
+
+
+true
+
+
+false
+
+
+0
+
+
+Indefinite
+0
+Indefinite
+
+
+
+false
+0
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Ohio Innovation Fund II, L.P.
+/s/ Bill Baumel
+Bill Baumel
+Managing Member of the GP of the Issuer
+2023-08-03
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0001982695-23-000004.txt : 20230626
+0001982695-23-000004.hdr.sgml : 20230626
+20230626115941
+ACCESSION NUMBER:		0001982695-23-000004
+CONFORMED SUBMISSION TYPE:	D/A
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(7)
+FILED AS OF DATE:		20230626
+DATE AS OF CHANGE:		20230626
+EFFECTIVENESS DATE:		20230626
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Long Duration Fund LLC
+		CENTRAL INDEX KEY:			0001619603
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-316875
+		FILM NUMBER:		231040665
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2029 CENTURY PARK EAST
+		STREET 2:		SUITE 2010
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+		BUSINESS PHONE:		310-785-9755
+
+	MAIL ADDRESS:	
+		STREET 1:		2029 CENTURY PARK EAST
+		STREET 2:		SUITE 2010
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+
+
+D/A
+1
+primary_doc.xml
+
+
+
+
+X0708
+D/A
+LIVE
+
+0001619603
+Long Duration Fund LLC
+
+11111 Santa Monica Blvd
+Suite 300
+LOS ANGELES
+CA
+CALIFORNIA
+90025
+
+310-785-9755
+DELAWARE
+
+None
+
+
+None
+
+Limited Liability Company
+
+true
+
+
+
+
+
+John
+B.
+Wagner
+
+
+11111 Santa Monica Blvd
+Suite 300
+Los Angeles
+CA
+CALIFORNIA
+90025
+
+
+Executive Officer
+
+of the Issuer's Manager
+
+
+
+Alexander
+Lach
+
+
+11111 Santa Monica Blvd
+Suite 300
+Los Angeles
+CA
+CALIFORNIA
+90025
+
+
+Executive Officer
+
+of the Issuer's Manager
+
+
+
+David
+Lindberg
+
+
+11111 Santa Monica Blvd
+Suite 300
+Los Angeles
+CA
+CALIFORNIA
+90025
+
+
+Executive Officer
+
+of the Issuer's Manager
+
+
+
+Scott
+Lange
+
+
+11111 Santa Monica Blvd
+Suite 300
+Los Angeles
+CA
+CALIFORNIA
+90025
+
+
+Executive Officer
+
+of the Issuer's Manager
+
+
+
+
+Pooled Investment Fund
+
+Hedge Fund
+false
+
+
+
+Decline to Disclose
+
+
+06b
+3C
+3C.7
+
+
+
+true
+0001935782-22-000001
+
+
+2019-02-01
+
+
+
+true
+
+
+true
+
+
+false
+
+
+0
+
+
+Indefinite
+150000000
+Indefinite
+
+
+
+false
+2
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Long Duration Fund LLC
+/s/ Michelle Bergren
+Michelle Bergren
+Chief Compliance Officer
+2023-06-23
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0001981898-23-000001.txt : 20230621
+0001981898-23-000001.hdr.sgml : 20230621
+20230620191238
+ACCESSION NUMBER:		0001981898-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06c
+FILED AS OF DATE:		20230621
+DATE AS OF CHANGE:		20230620
+EFFECTIVENESS DATE:		20230621
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ace Private Fund LLC
+		CENTRAL INDEX KEY:			0001981898
+		IRS NUMBER:				922690517
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-484684
+		FILM NUMBER:		231027003
+
+	BUSINESS ADDRESS:	
+		STREET 1:		14001 W STATE HWY 29 SUITE 102
+		CITY:			LIBERTY HILL
+		STATE:			TX
+		ZIP:			78642
+		BUSINESS PHONE:		(832) 219-8888
+
+	MAIL ADDRESS:	
+		STREET 1:		14001 W STATE HWY 29 SUITE 102
+		CITY:			LIBERTY HILL
+		STATE:			TX
+		ZIP:			78642
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001981898
+Ace Private Fund LLC
+
+14001 W STATE HWY 29 SUITE 102
+LIBERTY HILL
+TX
+TEXAS
+78642
+
+(832) 219-8888
+TEXAS
+
+None
+
+
+None
+
+Limited Liability Company
+
+true
+2023
+
+
+
+
+
+Christian
+Albert
+
+
+11010 Dumbreck Drive
+Richmond
+TX
+TEXAS
+77407
+
+
+Executive Officer
+
+
+
+
+
+
+REITS and Finance
+
+
+No Revenues
+
+
+06c
+
+
+
+false
+
+
+true
+
+
+
+true
+
+
+true
+
+
+false
+
+
+25000
+
+
+100000000
+0
+100000000
+
+
+
+false
+0
+
+
+
+0
+
+
+0
+
+
+
+
+
+100000
+true
+
+
+
+
+false
+
+Ace Private Fund LLC
+/bem/
+Bruce E. Methven
+Attorney
+2023-06-20
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0001978442-23-000002.txt : 20230523
+0001978442-23-000002.hdr.sgml : 20230523
+20230523092414
+ACCESSION NUMBER:		0001978442-23-000002
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(1)
+FILED AS OF DATE:		20230523
+DATE AS OF CHANGE:		20230523
+EFFECTIVENESS DATE:		20230523
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MA-0319 Fund II AL Vehicle, a series of Umami Capital, LP
+		CENTRAL INDEX KEY:			0001978442
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-482357
+		FILM NUMBER:		23946714
+
+	BUSINESS ADDRESS:	
+		STREET 1:		119 SOUTH MAIN STREET
+		STREET 2:		SUITE 220
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+		BUSINESS PHONE:		2068016359
+
+	MAIL ADDRESS:	
+		STREET 1:		119 SOUTH MAIN STREET
+		STREET 2:		SUITE 220
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MA-0319 Fund II, a series of Umami Capital, LP
+		CENTRAL INDEX KEY:			0001978438
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-482357-01
+		FILM NUMBER:		23946715
+
+	BUSINESS ADDRESS:	
+		STREET 1:		119 SOUTH MAIN STREET
+		STREET 2:		SUITE 220
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+		BUSINESS PHONE:		2068016359
+
+	MAIL ADDRESS:	
+		STREET 1:		119 SOUTH MAIN STREET
+		STREET 2:		SUITE 220
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001978442
+MA-0319 Fund II AL Vehicle, a series of Umami Capital, LP
+
+119 SOUTH MAIN STREET
+SUITE 220
+SEATTLE
+WA
+WASHINGTON
+98104
+
+2068016359
+DELAWARE
+
+None
+
+
+None
+
+Limited Partnership
+
+true
+2023
+
+
+
+
+0001978438
+MA-0319 Fund II, a series of Umami Capital, LP
+
+119 SOUTH MAIN STREET
+SUITE 220
+SEATTLE
+WA
+WASHINGTON
+98104
+
+2068016359
+DELAWARE
+
+None
+
+
+None
+
+Limited Partnership
+
+true
+2023
+
+
+
+
+
+
+LLC
+Fund GP,
+
+
+PO Box 3217
+Seattle
+WA
+WASHINGTON
+98114
+
+
+Director
+
+General partner of the Issuers
+
+
+
+Ltd.
+Belltower Fund Group,
+
+
+119 South Main St, Suite 220
+Seattle
+WA
+WASHINGTON
+98104
+
+
+Director
+
+Manager of the general partner of the Issuers
+
+
+
+
+Pooled Investment Fund
+
+Venture Capital Fund
+false
+
+
+
+Decline to Disclose
+
+
+06b
+3C
+3C.1
+
+
+
+false
+
+
+2023-05-18
+
+
+
+false
+
+
+true
+
+
+false
+
+
+1000
+
+
+106799
+106799
+0
+Amounts shown here include totals from the Issuer and a parallel fund of the Issuer.
+
+
+false
+19
+
+
+
+0
+
+
+0
+
+
+
+
+
+4977
+true
+
+This amount represents the dollar value of a one-time fee and an annual fee paid to the fund administrator and/or its affiliates to cover administrative expenses for the life of the fund.
+
+
+false
+
+MA-0319 Fund II AL Vehicle, a series of Umami Capital, LP
+/s/ Cathy Bui
+Cathy Bui
+Authorized Officer of the Manager of Issuers' GP
+2023-05-23
+
+
+MA-0319 Fund II, a series of Umami Capital, LP
+/s/ Cathy Bui
+Cathy Bui
+Authorized Officer of the Manager of Issuers' GP
+2023-05-23
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0000919574-23-002983.txt : 20230512
+0000919574-23-002983.hdr.sgml : 20230512
+20230512091746
+ACCESSION NUMBER:		0000919574-23-002983
+CONFORMED SUBMISSION TYPE:	D/A
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(1)
+FILED AS OF DATE:		20230512
+DATE AS OF CHANGE:		20230512
+EFFECTIVENESS DATE:		20230512
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Meditation Capital Partners LP
+		CENTRAL INDEX KEY:			0001926595
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-445460
+		FILM NUMBER:		23913522
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2500 PLAZA 5, 25TH FLOOR, OFFICE 2561
+		STREET 2:		HARBORSIDE FINANCIAL CENTER
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07311
+		BUSINESS PHONE:		248-930-2441
+
+	MAIL ADDRESS:	
+		STREET 1:		2500 PLAZA 5, 25TH FLOOR, OFFICE 2561
+		STREET 2:		HARBORSIDE FINANCIAL CENTER
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07311
+
+
+D/A
+1
+primary_doc.xml
+
+
+
+
+X0708
+D/A
+LIVE
+
+0001926595
+Meditation Capital Partners LP
+
+2500 PLAZA 5
+25TH FLOOR, OFFICE 2561
+JERSEY CITY
+NJ
+NEW JERSEY
+07311
+
+248-930-2441
+DELAWARE
+
+None
+
+
+None
+
+Limited Partnership
+
+true
+2022
+
+
+
+
+
+--
+Meditation Capital (GP) LLC
+
+
+2500 PLAZA 5
+25TH FLOOR, OFFICE 2561
+Jersey City
+NJ
+NEW JERSEY
+07311
+
+
+Executive Officer
+Promoter
+
+General Partner
+
+
+
+--
+Meditation Capital Management LP
+
+
+2500 PLAZA 5
+25TH FLOOR, OFFICE 2561
+Jersey City
+NJ
+NEW JERSEY
+07311
+
+
+Executive Officer
+Promoter
+
+Investment Manager
+
+
+
+
+Pooled Investment Fund
+
+Hedge Fund
+false
+
+
+
+Decline to Disclose
+
+
+06b
+3C
+3C.1
+
+
+
+true
+0000919574-22-003111
+
+
+2022-04-29
+
+
+
+true
+
+
+true
+true
+
+
+false
+
+0
+
+
+Indefinite
+6150000
+Indefinite
+
+
+false
+14
+
+
+
+0
+true
+
+
+0
+true
+
+
+
+
+
+0
+true
+
+The Investment Manager receives customary management fees.
+
+
+false
+
+Meditation Capital Partners LP
+/s/ Timothy Liu
+Timothy Liu
+Member of the General Partner
+2023-05-12
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0001971663-23-000002.txt : 20230505
+0001971663-23-000002.hdr.sgml : 20230505
+20230505070651
+ACCESSION NUMBER:		0001971663-23-000002
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06c
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(1)
+FILED AS OF DATE:		20230505
+DATE AS OF CHANGE:		20230505
+EFFECTIVENESS DATE:		20230505
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Network Ventures Rolling Fund, LP - B3
+		CENTRAL INDEX KEY:			0001971663
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-480896
+		FILM NUMBER:		23891198
+
+	BUSINESS ADDRESS:	
+		STREET 1:		119 SOUTH MAIN STREET
+		STREET 2:		SUITE 220
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+		BUSINESS PHONE:		2068016359
+
+	MAIL ADDRESS:	
+		STREET 1:		119 SOUTH MAIN STREET
+		STREET 2:		SUITE 220
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001971663
+Network Ventures Rolling Fund, LP - B3
+
+119 SOUTH MAIN STREET
+SUITE 220
+SEATTLE
+WA
+WASHINGTON
+98104
+
+2068016359
+DELAWARE
+
+None
+
+
+None
+
+Limited Partnership
+
+true
+2023
+
+
+
+
+
+LLC
+Fund GP,
+
+
+PO Box 3217
+Seattle
+WA
+WASHINGTON
+98114
+
+
+Director
+
+General partner of the Issuer
+
+
+
+Ltd.
+Belltower Fund Group,
+
+
+119 South Main St, Suite 220
+Seattle
+WA
+WASHINGTON
+98104
+
+
+Director
+
+Manager of the general partner of the Issuer
+
+
+
+
+Pooled Investment Fund
+
+Venture Capital Fund
+false
+
+
+
+Decline to Disclose
+
+
+06c
+3C
+3C.1
+
+
+
+false
+
+
+2023-04-28
+
+
+
+false
+
+
+true
+
+
+false
+
+
+1684
+
+
+38142
+38142
+0
+
+
+
+false
+5
+
+
+
+0
+
+
+0
+
+
+
+
+
+20000
+true
+
+This amount represents a one-time fixed cost to cover fund organizational and operating expenses, including all regulatory filing fees, for the life of the fund.
+
+
+false
+
+Network Ventures Rolling Fund, LP - B3
+/s/ Cathy Bui
+Cathy Bui
+Authorized Officer of the Manager of Issuer's GP
+2023-05-05
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0001960623-23-000001.txt : 20230504
+0001960623-23-000001.hdr.sgml : 20230504
+20230504131526
+ACCESSION NUMBER:		0001960623-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+FILED AS OF DATE:		20230504
+DATE AS OF CHANGE:		20230504
+EFFECTIVENESS DATE:		20230504
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Skydeo Inc
+		CENTRAL INDEX KEY:			0001960623
+		IRS NUMBER:				474676021
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-480821
+		FILM NUMBER:		23887683
+
+	BUSINESS ADDRESS:	
+		STREET 1:		98 SAN JACINTO BLVD.
+		STREET 2:		SUITE 400
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701
+		BUSINESS PHONE:		512-900-8390
+
+	MAIL ADDRESS:	
+		STREET 1:		98 SAN JACINTO BLVD.
+		STREET 2:		SUITE 400
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001960623
+Skydeo Inc
+
+98 SAN JACINTO BLVD.
+SUITE 400
+AUSTIN
+TX
+TEXAS
+78701
+
+512-900-8390
+DELAWARE
+
+None
+
+
+None
+
+Corporation
+
+true
+
+
+
+
+
+MIchael
+Ford
+
+
+98 San Jacinto Blvd
+Suite 400
+Austin
+TX
+TEXAS
+78701
+
+
+Executive Officer
+Director
+
+
+
+
+
+
+Business Services
+
+
+Decline to Disclose
+
+
+06b
+
+
+
+false
+
+
+2023-04-25
+
+
+
+false
+
+
+true
+
+
+false
+
+
+0
+
+
+1234976
+834066
+400910
+
+
+
+false
+10
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Skydeo Inc
+Michael Ford
+Michael Ford
+CEO
+2023-05-04
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0001971248-23-000001.txt : 20230504
+0001971248-23-000001.hdr.sgml : 20230504
+20230504170908
+ACCESSION NUMBER:		0001971248-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+FILED AS OF DATE:		20230504
+DATE AS OF CHANGE:		20230504
+EFFECTIVENESS DATE:		20230504
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Helios Alsym Partners, LLC
+		CENTRAL INDEX KEY:			0001971248
+		IRS NUMBER:				922919042
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-480878
+		FILM NUMBER:		23889906
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1312 17TH STREET
+		STREET 2:		SUITE 1320
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+		BUSINESS PHONE:		978-270-1495
+
+	MAIL ADDRESS:	
+		STREET 1:		1312 17TH STREET
+		STREET 2:		SUITE 1320
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001971248
+Helios Alsym Partners, LLC
+
+1312 17TH STREET
+SUITE 1320
+DENVER
+CO
+COLORADO
+80202
+
+978-270-1495
+DELAWARE
+
+None
+
+
+None
+
+Limited Liability Company
+
+true
+2023
+
+
+
+
+
+-
+Helios Climate Partners, LLC
+
+
+1312 17th Street
+Suite 1320
+Denver
+CO
+COLORADO
+80202
+
+
+Director
+
+Manager
+
+
+
+Waters
+A
+Kellogg
+
+
+1312 17th Street
+Suite 1320
+Denver
+CO
+COLORADO
+80202
+
+
+Director
+
+Managing Director of Manager
+
+
+
+Jesse
+Johnson
+
+
+1312 17th Street
+Suite 1320
+Denver
+CO
+COLORADO
+80202
+
+
+Director
+
+Managing Director of Manager.
+
+
+
+
+Investing
+
+
+Decline to Disclose
+
+
+06b
+
+
+
+false
+
+
+2023-04-28
+
+
+
+false
+
+
+true
+
+
+false
+
+
+17565
+
+
+1250000
+1250000
+0
+
+
+
+false
+4
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+Customary management fees may be payable, as set forth in the Issuer's Limited Liability Company Agreement.
+
+
+false
+
+Helios Alsym Partners, LLC
+/s/ Waters A. Kellogg
+Waters A. Kellogg
+Managing Director of Manager
+2023-05-04
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0001966648-23-000005.txt : 20230417
+0001966648-23-000005.hdr.sgml : 20230417
+20230417172833
+ACCESSION NUMBER:		0001966648-23-000005
+CONFORMED SUBMISSION TYPE:	D/A
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(7)
+FILED AS OF DATE:		20230417
+DATE AS OF CHANGE:		20230417
+EFFECTIVENESS DATE:		20230417
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hedge Fund Select: Empyrean Ltd
+		CENTRAL INDEX KEY:			0001668686
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-259165
+		FILM NUMBER:		23824894
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282-2198
+		BUSINESS PHONE:		212-902-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282-2198
+
+
+D/A
+1
+primary_doc.xml
+
+
+
+
+X0708
+D/A
+LIVE
+
+0001668686
+Hedge Fund Select: Empyrean Ltd
+
+200 WEST STREET
+NEW YORK
+NY
+NEW YORK
+10282-2198
+
+212-902-1000
+CAYMAN ISLANDS
+
+None
+
+
+None
+
+Other
+Exempted Limited Company
+
+true
+
+
+
+
+
+Helen
+A.
+Crowley
+
+
+200 West Street
+New York
+NY
+NEW YORK
+10282-2198
+
+
+Director
+
+
+
+
+
+
+Pooled Investment Fund
+
+Other Investment Fund
+false
+
+
+
+Decline to Disclose
+
+
+06b
+3C
+3C.7
+
+
+
+true
+0001921996-22-000003
+
+
+2016-02-26
+
+
+
+true
+
+
+true
+
+
+false
+
+
+0
+
+
+Goldman Sachs & Co. LLC
+361
+None
+None
+
+200 West Street
+New York
+NY
+NEW YORK
+10282-2198
+
+
+All States
+
+false
+
+
+
+Indefinite
+13098500
+Indefinite
+
+
+
+false
+11
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Hedge Fund Select: Empyrean Ltd
+/s/ Helen A. Crowley
+Helen A. Crowley
+Managing Director of the Issuer's Investment Manager
+2023-04-17
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0001879128-23-000002.txt : 20230302
+0001879128-23-000002.hdr.sgml : 20230302
+20230302100915
+ACCESSION NUMBER:		0001879128-23-000002
+CONFORMED SUBMISSION TYPE:	D/A
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+FILED AS OF DATE:		20230302
+DATE AS OF CHANGE:		20230302
+EFFECTIVENESS DATE:		20230302
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Quilt Holdco, Inc.
+		CENTRAL INDEX KEY:			0001879128
+		IRS NUMBER:				863647355
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-437065
+		FILM NUMBER:		23696829
+
+	BUSINESS ADDRESS:	
+		STREET 1:		135 W. 50TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			02215
+		BUSINESS PHONE:		646-637-6147
+
+	MAIL ADDRESS:	
+		STREET 1:		135 W. 50TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			02215
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Quilt Holdings, LP
+		CENTRAL INDEX KEY:			0001879138
+		IRS NUMBER:				863616201
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-437065-01
+		FILM NUMBER:		23696830
+
+	BUSINESS ADDRESS:	
+		STREET 1:		135 W. 50TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+		BUSINESS PHONE:		646-637-6147
+
+	MAIL ADDRESS:	
+		STREET 1:		135 W. 50TH STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10020
+
+
+D/A
+1
+primary_doc.xml
+
+
+
+
+X0708
+D/A
+LIVE
+
+0001879128
+Quilt Holdco, Inc.
+
+135 W. 50TH STREET
+NEW YORK
+NY
+NEW YORK
+02215
+
+646-637-6147
+DELAWARE
+
+None
+
+
+None
+
+Corporation
+
+true
+2021
+
+
+
+
+0001879138
+Quilt Holdings, LP
+
+135 W. 50TH STREET
+NEW YORK
+NY
+NEW YORK
+10020
+
+646-637-6147
+DELAWARE
+
+None
+
+
+None
+
+Limited Partnership
+
+true
+2021
+
+
+
+
+
+
+-
+Quilt Holdco GP, LLC
+
+
+135 W. 50th Street
+New York
+NY
+NEW YORK
+10020
+
+
+Director
+
+General Partner of Quilt Holdings, LP
+
+
+
+Andrew
+Stern
+
+
+135 W. 50th Street
+New York
+NY
+NEW YORK
+10020
+
+
+Executive Officer
+
+Chief Executive Officer of Quilt Holdco, Inc. and Quilt Holdings, LP
+
+
+
+Jeremy
+Sokolic
+
+
+135 W. 50th Street
+New York
+NY
+NEW YORK
+10020
+
+
+Executive Officer
+
+President of Quilt Holdco, Inc. and Quilt Holdings, LP
+
+
+
+Zepeng (Jimmy)
+Guan
+
+
+135 W. 50th Street
+New York
+NY
+NEW YORK
+10020
+
+
+Director
+
+Director of Quilt Holdco, Inc.
+
+
+
+John
+Marquis
+
+
+135 W. 50th Street
+New York
+NY
+NEW YORK
+10020
+
+
+Executive Officer
+Director
+
+Vice President and Director of Quilt Holdco, Inc. and Vice President of Quilt Holdings, LP
+
+
+
+
+Other Technology
+
+
+Decline to Disclose
+
+
+06b
+
+
+
+true
+0001879128-22-000002
+
+
+2022-03-03
+
+
+
+true
+
+
+true
+true
+true
+true
+In an acquisition transaction, Quilt Holdco, Inc. has issued a right to purchase Notes (defined in #10). When issued, the Notes will convert into common stock of Quilt Holdco, Inc. and then immediately convert into Common Units of Quilt Holdings, LP.
+
+
+true
+Quilt Holdco, Inc. ("Holdco") will issue Subordinated Convertible Promissory Notes ("Notes") if certain earn-out thresholds are met. When issued the Notes will convert into Holdco common stock and immediately convert into Quilt Holdings, LP Common Units
+
+0
+
+
+4000000
+4000000
+0
+
+
+
+false
+1
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Quilt Holdco, Inc.
+/s/ Andrew Stern
+Andrew Stern
+Chief Executive Officer
+2023-03-02
+
+
+Quilt Holdings, LP
+/s/ Andrew Stern
+Andrew Stern
+Chief Executive Officer
+2023-03-02
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0000919574-23-001848.txt : 20230223
+0000919574-23-001848.hdr.sgml : 20230223
+20230223093847
+ACCESSION NUMBER:		0000919574-23-001848
+CONFORMED SUBMISSION TYPE:	D/A
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(7)
+FILED AS OF DATE:		20230223
+DATE AS OF CHANGE:		20230223
+EFFECTIVENESS DATE:		20230223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hawkes Bay Investors (Cayman), Ltd.
+		CENTRAL INDEX KEY:			0001537577
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-170888
+		FILM NUMBER:		23656754
+
+	BUSINESS ADDRESS:	
+		STREET 1:		OGIER GLOBAL (CAYMAN) LIMITED
+		STREET 2:		89 NEXUS WAY, CAMANA BAY
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-9009
+		BUSINESS PHONE:		617-951-5372
+
+	MAIL ADDRESS:	
+		STREET 1:		OGIER GLOBAL (CAYMAN) LIMITED
+		STREET 2:		89 NEXUS WAY, CAMANA BAY
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-9009
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Hawkes Bay Investors (Cayman) Ltd.
+		DATE OF NAME CHANGE:	20111216
+
+
+D/A
+1
+primary_doc.xml
+
+
+
+
+X0708
+D/A
+LIVE
+
+0001537577
+Hawkes Bay Investors (Cayman), Ltd.
+
+OGIER GLOBAL (CAYMAN) LIMITED
+89 NEXUS WAY, CAMANA BAY
+GRAND CAYMAN
+E9
+CAYMAN ISLANDS
+KY1-9009
+
+617-951-5372
+CAYMAN ISLANDS
+
+None
+
+
+Hawkes Bay Investors (Cayman) Ltd.
+
+Other
+Cayman Islands Exempted Company
+
+true
+
+
+
+
+
+Matthew
+N.
+Shea
+
+
+Wellington Management Company LLP
+280 Congress Street
+Boston
+MA
+MASSACHUSETTS
+02210
+
+
+Director
+
+
+
+
+Jonathan
+C.
+Conant
+
+
+Wellington Management Company LLP
+280 Congress Street
+Boston
+MA
+MASSACHUSETTS
+02210
+
+
+Director
+
+
+
+
+Helen
+E.
+Clement
+
+
+Wellington Management Company LLP
+280 Congress Street
+Boston
+MA
+MASSACHUSETTS
+02210
+
+
+Director
+
+
+
+
+Michael
+J.
+Feder
+
+
+Wellington Management Company LLP
+280 Congress Street
+Boston
+MA
+MASSACHUSETTS
+02210
+
+
+Director
+
+
+
+
+--
+Wellington Management Company LLP
+
+
+280 Congress Street
+Boston
+MA
+MASSACHUSETTS
+02210
+
+
+Executive Officer
+
+Investment Manager
+
+
+
+--
+Wellington Alternative Investments LLC
+
+
+280 Congress Street
+Boston
+MA
+MASSACHUSETTS
+02210
+
+
+Executive Officer
+
+Manager
+
+
+
+
+Pooled Investment Fund
+
+Hedge Fund
+false
+
+
+
+Decline to Disclose
+
+
+06b
+3C
+3C.7
+
+
+
+true
+0000919574-22-001887
+
+
+2007-01-02
+
+
+
+true
+
+
+true
+true
+
+
+false
+
+100000
+
+
+Wellington Funds Distributors Inc.
+152768
+None
+None
+
+280 CONGRESS STREET
+BOSTON
+MA
+MASSACHUSETTS
+02210
+
+
+All States
+
+false
+
+
+Merrill Lynch, Pierce, Fenner & Smith Incorporated
+7691
+None
+None
+
+ONE BRYANT PARK
+NEW YORK
+NY
+NEW YORK
+10036
+
+
+All States
+
+false
+
+
+Deutsche Bank Securities Inc.
+2525
+None
+None
+
+1 COLUMBUS CIRCLE
+NEW YORK
+NY
+NEW YORK
+10019
+
+
+All States
+
+false
+
+
+Morgan Stanley Smith Barney LLC
+149777
+None
+None
+
+2000 WESTCHESTER AVENUE
+PURCHASE
+NY
+NEW YORK
+10577-2530
+
+
+All States
+
+false
+
+
+Rockefeller Financial LLC
+291361
+None
+None
+
+45 ROCKEFELLER PLAZA, FLOOR 5
+NEW YORK
+NY
+NEW YORK
+10111
+
+
+All States
+
+false
+
+
+
+Indefinite
+219647330
+Indefinite
+
+
+false
+155
+
+
+
+786748
+true
+
+
+0
+true
+
+
+
+
+
+0
+true
+
+The Investment Manager and its affiliates receive customary management fees.
+
+
+false
+
+Hawkes Bay Investors (Cayman), Ltd.
+/s/ Matthew N. Shea
+Matthew N. Shea
+Director
+2023-02-23
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0001964973-23-000003.txt : 20230215
+0001964973-23-000003.hdr.sgml : 20230215
+20230215164524
+ACCESSION NUMBER:		0001964973-23-000003
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06c
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(1)
+FILED AS OF DATE:		20230215
+DATE AS OF CHANGE:		20230215
+EFFECTIVENESS DATE:		20230215
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Purple Arch Ventures Fund 7, LLC
+		CENTRAL INDEX KEY:			0001965009
+		IRS NUMBER:				921630418
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-473587
+		FILM NUMBER:		23635997
+
+	BUSINESS ADDRESS:	
+		STREET 1:		670 NORTH COMMERCIAL STREET
+		STREET 2:		SUITE 403
+		CITY:			MANCHESTER
+		STATE:			NH
+		ZIP:			03101
+		BUSINESS PHONE:		603-518-8112
+
+	MAIL ADDRESS:	
+		STREET 1:		70 FEDERAL STREET
+		STREET 2:		6TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001965009
+Purple Arch Ventures Fund 7, LLC
+
+70 Federal Street
+6th Floor
+Boston
+MA
+MASSACHUSETTS
+02110
+
+603-518-8112
+DELAWARE
+
+None
+
+
+None
+
+Limited Liability Company
+
+true
+2023
+
+
+
+
+
+Michael
+Collins
+
+
+670 N. Commercial Street
+Suite 403
+Manchester
+NH
+NEW HAMPSHIRE
+03101
+
+
+Executive Officer
+
+CEO of Alumni Ventures Group, the Issuers Sole Manager
+
+
+
+
+Pooled Investment Fund
+
+Venture Capital Fund
+false
+
+
+
+$1 - $1,000,000
+
+
+06c
+3C
+3C.1
+
+
+
+false
+
+
+true
+
+
+
+false
+
+
+true
+true
+
+
+false
+
+
+25000
+
+
+Daniel C Burns
+2269946
+Independent Brokerage Solutions LLC
+153563
+
+670 N. Commercial Street
+Suite 403
+Manchester
+NH
+NEW HAMPSHIRE
+03101
+
+
+All States
+
+false
+
+
+Darrin H Wizst
+2171844
+Independent Brokerage Solutions LLC
+153563
+
+670 N. Commercial Street
+Suite 403
+Manchester
+NH
+NEW HAMPSHIRE
+03101
+
+
+All States
+
+false
+
+
+Stacey H Tsai
+4870728
+Independent Brokerage Solutions LLC
+153563
+
+670 N. Commercial Street
+Suite 403
+Manchester
+NH
+NEW HAMPSHIRE
+03101
+
+
+All States
+
+false
+
+
+Charles S Patrick
+4491463
+Independent Brokerage Solutions LLC
+153563
+
+670 N. Commercial Street
+Suite 403
+Manchester
+NH
+NEW HAMPSHIRE
+03101
+
+
+All States
+
+false
+
+
+
+Indefinite
+0
+Indefinite
+
+
+
+false
+0
+
+
+
+75000
+true
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Purple Arch Ventures Fund 7, LLC
+Hilary Ncala
+Hilary Ncala
+General Manager, Alumni Funds of Issuers Sole Manager
+2023-02-15
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0001964270-23-000001.txt : 20230208
+0001964270-23-000001.hdr.sgml : 20230208
+20230207180416
+ACCESSION NUMBER:		0001964270-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(1)
+ITEM INFORMATION:		Section 3(c)(7)
+FILED AS OF DATE:		20230208
+DATE AS OF CHANGE:		20230207
+EFFECTIVENESS DATE:		20230208
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Edgewater Capital Partners V, LP
+		CENTRAL INDEX KEY:			0001964270
+		IRS NUMBER:				884258286
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-472891
+		FILM NUMBER:		23596416
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5005 ROCKSIDE ROAD, PH 1300
+		CITY:			INDEPENDENCE
+		STATE:			OH
+		ZIP:			44131
+		BUSINESS PHONE:		216-292-3838
+
+	MAIL ADDRESS:	
+		STREET 1:		5005 ROCKSIDE ROAD, PH 1300
+		CITY:			INDEPENDENCE
+		STATE:			OH
+		ZIP:			44131
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001964270
+Edgewater Capital Partners V, LP
+
+5005 ROCKSIDE ROAD, PH 1300
+INDEPENDENCE
+OH
+OHIO
+44131
+
+216-292-3838
+DELAWARE
+
+None
+
+
+None
+
+Limited Partnership
+
+true
+2022
+
+
+
+
+
+Christopher
+Childres
+
+
+5005 Rockside Road, PH 1300
+Independence
+OH
+OHIO
+44131
+
+
+Executive Officer
+
+Mr. Childres is a Member of the General Partner, Edgewater Group V, LLC.
+
+
+
+Brian
+Leonard
+
+
+5005 Rockside Road, PH 1300
+Independence
+OH
+OHIO
+44131
+
+
+Executive Officer
+
+Mr. Leonard is the Managing Partner of the General Partner, Edgewater Group V, LLC.
+
+
+
+
+Pooled Investment Fund
+
+Private Equity Fund
+false
+
+
+
+Decline to Disclose
+
+
+06b
+3C
+3C.1
+3C.7
+
+
+
+false
+
+
+2023-01-27
+
+
+
+true
+
+
+true
+
+
+false
+
+
+0
+
+
+110000000
+110000000
+0
+
+
+
+false
+10
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Edgewater Capital Partners V, LP
+Brian N. Leonard
+Brian N. Leonard
+Managing Partner of General Partner Edgewater Group V, LLC
+2023-02-07
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0001962422-23-000001.txt : 20230117
+0001962422-23-000001.hdr.sgml : 20230117
+20230117091846
+ACCESSION NUMBER:		0001962422-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+FILED AS OF DATE:		20230117
+DATE AS OF CHANGE:		20230117
+EFFECTIVENESS DATE:		20230117
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Project Apex Holdings, LLC
+		CENTRAL INDEX KEY:			0001962422
+		IRS NUMBER:				921107151
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-470818
+		FILM NUMBER:		23530464
+
+	BUSINESS ADDRESS:	
+		STREET 1:		555 E EASY STREET
+		CITY:			SIMI VALLEY
+		STATE:			CA
+		ZIP:			93065
+		BUSINESS PHONE:		8059559699 EXT 16
+
+	MAIL ADDRESS:	
+		STREET 1:		555 E EASY STREET
+		CITY:			SIMI VALLEY
+		STATE:			CA
+		ZIP:			93065
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001962422
+Project Apex Holdings, LLC
+
+555 E EASY STREET
+SIMI VALLEY
+CA
+CALIFORNIA
+93065
+
+8059559699 EXT 16
+DELAWARE
+
+None
+
+
+None
+
+Limited Liability Company
+
+true
+2022
+
+
+
+
+
+Michael
+Seeman
+
+
+555 E Easy Street
+Simi Valley
+CA
+CALIFORNIA
+93065
+
+
+Executive Officer
+Director
+
+
+
+
+
+Andrew
+Wiechkoske
+
+
+620 Liberty Ave
+22nd FL
+Pittsburgh
+PA
+PENNSYLVANIA
+15222
+
+
+Director
+
+
+
+
+
+Andrew
+Barza
+
+
+620 Liberty Ave
+22nd FL
+Pittsburgh
+PA
+PENNSYLVANIA
+15222
+
+
+Director
+
+
+
+
+
+Daniel
+Seeman
+
+
+555 E Easy Street
+Simi Valley
+CA
+CALIFORNIA
+93065
+
+
+Executive Officer
+Director
+
+
+
+
+
+
+Other
+
+
+Decline to Disclose
+
+
+06b
+
+
+
+false
+
+
+2023-01-10
+
+
+
+false
+
+
+true
+
+
+true
+The proceeds from the offering described herein were used to fund an acquisition of a privately owned company.
+
+0
+
+
+70000000
+70000000
+0
+
+
+
+false
+4
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Project Apex Holdings, LLC
+Michael Seeman
+Michael Seeman
+Chief Financial Officer
+2023-01-17
+
+
+
+
+
+
+
+
+
+
+ |||| 
+
+0001961760-23-000002.txt : 20230111
+0001961760-23-000002.hdr.sgml : 20230111
+20230111111514
+ACCESSION NUMBER:		0001961760-23-000002
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06c
+ITEM INFORMATION:		Section 3(c)(1)
+FILED AS OF DATE:		20230111
+DATE AS OF CHANGE:		20230111
+EFFECTIVENESS DATE:		20230111
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Executive Enterprise Venture Fund, LP - B1
+		CENTRAL INDEX KEY:			0001961760
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-470311
+		FILM NUMBER:		23522879
+
+	BUSINESS ADDRESS:	
+		STREET 1:		119 SOUTH MAIN STREET
+		STREET 2:		SUITE 220
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+		BUSINESS PHONE:		3603409337
+
+	MAIL ADDRESS:	
+		STREET 1:		119 SOUTH MAIN STREET
+		STREET 2:		SUITE 220
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001961760
+Executive Enterprise Venture Fund, LP - B1
+
+119 South Main Street
+Suite 220
+Seattle
+WA
+WASHINGTON
+98104
+
+2068016359
+DELAWARE
+
+None
+
+
+None
+
+Limited Partnership
+
+true
+2022
+
+
+
+
+
+Ltd.
+Belltower Fund Group
+
+
+119 South Main Street
+Suite 220
+Seattle
+WA
+WASHINGTON
+98104
+
+
+Director
+
+Manager of the general partner of the Issuer
+
+
+
+LLC
+Fund GP,
+
+
+119 South Main Street
+Suite 220
+Seattle
+WA
+WASHINGTON
+98104
+
+
+Director
+
+General partner of the Issuer
+
+
+
+
+Pooled Investment Fund
+
+Venture Capital Fund
+false
+
+
+
+Decline to Disclose
+
+
+06c
+3C.1
+
+
+
+false
+
+
+2023-01-07
+
+
+
+false
+
+
+true
+
+
+false
+
+2055
+
+
+549178
+49178
+500000
+
+
+false
+2
+
+
+
+0
+
+
+0
+
+
+
+
+20000
+true
+
+This amount represents a one-time fixed cost to cover fund organizational and operating expenses, including all regulatory filing fees, for the life of the fund.
+
+
+false
+
+Executive Enterprise Venture Fund, LP - B1
+Cathy Bui
+Cathy Bui
+Authorized Officer of the Manager of the Issuer's GP
+2023-01-11
+
+
+
+
+
+
+
+
+
+
+ |||| 
+

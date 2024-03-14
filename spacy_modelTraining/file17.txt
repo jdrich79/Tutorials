@@ -1,0 +1,251 @@
+0001964973-23-000003.txt : 20230215
+0001964973-23-000003.hdr.sgml : 20230215
+20230215164524
+ACCESSION NUMBER:		0001964973-23-000003
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06c
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(1)
+FILED AS OF DATE:		20230215
+DATE AS OF CHANGE:		20230215
+EFFECTIVENESS DATE:		20230215
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Purple Arch Ventures Fund 7, LLC
+		CENTRAL INDEX KEY:			0001965009
+		IRS NUMBER:				921630418
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-473587
+		FILM NUMBER:		23635997
+
+	BUSINESS ADDRESS:	
+		STREET 1:		670 NORTH COMMERCIAL STREET
+		STREET 2:		SUITE 403
+		CITY:			MANCHESTER
+		STATE:			NH
+		ZIP:			03101
+		BUSINESS PHONE:		603-518-8112
+
+	MAIL ADDRESS:	
+		STREET 1:		70 FEDERAL STREET
+		STREET 2:		6TH FLOOR
+		CITY:			BOSTON
+		STATE:			MA
+		ZIP:			02110
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001965009
+Purple Arch Ventures Fund 7, LLC
+
+70 Federal Street
+6th Floor
+Boston
+MA
+MASSACHUSETTS
+02110
+
+603-518-8112
+DELAWARE
+
+None
+
+
+None
+
+Limited Liability Company
+
+true
+2023
+
+
+
+
+
+Michael
+Collins
+
+
+670 N. Commercial Street
+Suite 403
+Manchester
+NH
+NEW HAMPSHIRE
+03101
+
+
+Executive Officer
+
+CEO of Alumni Ventures Group, the Issuers Sole Manager
+
+
+
+
+Pooled Investment Fund
+
+Venture Capital Fund
+false
+
+
+
+$1 - $1,000,000
+
+
+06c
+3C
+3C.1
+
+
+
+false
+
+
+true
+
+
+
+false
+
+
+true
+true
+
+
+false
+
+
+25000
+
+
+Daniel C Burns
+2269946
+Independent Brokerage Solutions LLC
+153563
+
+670 N. Commercial Street
+Suite 403
+Manchester
+NH
+NEW HAMPSHIRE
+03101
+
+
+All States
+
+false
+
+
+Darrin H Wizst
+2171844
+Independent Brokerage Solutions LLC
+153563
+
+670 N. Commercial Street
+Suite 403
+Manchester
+NH
+NEW HAMPSHIRE
+03101
+
+
+All States
+
+false
+
+
+Stacey H Tsai
+4870728
+Independent Brokerage Solutions LLC
+153563
+
+670 N. Commercial Street
+Suite 403
+Manchester
+NH
+NEW HAMPSHIRE
+03101
+
+
+All States
+
+false
+
+
+Charles S Patrick
+4491463
+Independent Brokerage Solutions LLC
+153563
+
+670 N. Commercial Street
+Suite 403
+Manchester
+NH
+NEW HAMPSHIRE
+03101
+
+
+All States
+
+false
+
+
+
+Indefinite
+0
+Indefinite
+
+
+
+false
+0
+
+
+
+75000
+true
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Purple Arch Ventures Fund 7, LLC
+Hilary Ncala
+Hilary Ncala
+General Manager, Alumni Funds of Issuers Sole Manager
+2023-02-15
+
+
+
+
+
+
+
+

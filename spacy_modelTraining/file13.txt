@@ -1,0 +1,205 @@
+0001971248-23-000001.txt : 20230504
+0001971248-23-000001.hdr.sgml : 20230504
+20230504170908
+ACCESSION NUMBER:		0001971248-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+FILED AS OF DATE:		20230504
+DATE AS OF CHANGE:		20230504
+EFFECTIVENESS DATE:		20230504
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Helios Alsym Partners, LLC
+		CENTRAL INDEX KEY:			0001971248
+		IRS NUMBER:				922919042
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-480878
+		FILM NUMBER:		23889906
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1312 17TH STREET
+		STREET 2:		SUITE 1320
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+		BUSINESS PHONE:		978-270-1495
+
+	MAIL ADDRESS:	
+		STREET 1:		1312 17TH STREET
+		STREET 2:		SUITE 1320
+		CITY:			DENVER
+		STATE:			CO
+		ZIP:			80202
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001971248
+Helios Alsym Partners, LLC
+
+1312 17TH STREET
+SUITE 1320
+DENVER
+CO
+COLORADO
+80202
+
+978-270-1495
+DELAWARE
+
+None
+
+
+None
+
+Limited Liability Company
+
+true
+2023
+
+
+
+
+
+-
+Helios Climate Partners, LLC
+
+
+1312 17th Street
+Suite 1320
+Denver
+CO
+COLORADO
+80202
+
+
+Director
+
+Manager
+
+
+
+Waters
+A
+Kellogg
+
+
+1312 17th Street
+Suite 1320
+Denver
+CO
+COLORADO
+80202
+
+
+Director
+
+Managing Director of Manager
+
+
+
+Jesse
+Johnson
+
+
+1312 17th Street
+Suite 1320
+Denver
+CO
+COLORADO
+80202
+
+
+Director
+
+Managing Director of Manager.
+
+
+
+
+Investing
+
+
+Decline to Disclose
+
+
+06b
+
+
+
+false
+
+
+2023-04-28
+
+
+
+false
+
+
+true
+
+
+false
+
+
+17565
+
+
+1250000
+1250000
+0
+
+
+
+false
+4
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+Customary management fees may be payable, as set forth in the Issuer's Limited Liability Company Agreement.
+
+
+false
+
+Helios Alsym Partners, LLC
+/s/ Waters A. Kellogg
+Waters A. Kellogg
+Managing Director of Manager
+2023-05-04
+
+
+
+
+
+
+
+

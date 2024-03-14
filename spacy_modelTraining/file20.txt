@@ -1,0 +1,190 @@
+0001961760-23-000002.txt : 20230111
+0001961760-23-000002.hdr.sgml : 20230111
+20230111111514
+ACCESSION NUMBER:		0001961760-23-000002
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06c
+ITEM INFORMATION:		Section 3(c)(1)
+FILED AS OF DATE:		20230111
+DATE AS OF CHANGE:		20230111
+EFFECTIVENESS DATE:		20230111
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Executive Enterprise Venture Fund, LP - B1
+		CENTRAL INDEX KEY:			0001961760
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-470311
+		FILM NUMBER:		23522879
+
+	BUSINESS ADDRESS:	
+		STREET 1:		119 SOUTH MAIN STREET
+		STREET 2:		SUITE 220
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+		BUSINESS PHONE:		3603409337
+
+	MAIL ADDRESS:	
+		STREET 1:		119 SOUTH MAIN STREET
+		STREET 2:		SUITE 220
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001961760
+Executive Enterprise Venture Fund, LP - B1
+
+119 South Main Street
+Suite 220
+Seattle
+WA
+WASHINGTON
+98104
+
+2068016359
+DELAWARE
+
+None
+
+
+None
+
+Limited Partnership
+
+true
+2022
+
+
+
+
+
+Ltd.
+Belltower Fund Group
+
+
+119 South Main Street
+Suite 220
+Seattle
+WA
+WASHINGTON
+98104
+
+
+Director
+
+Manager of the general partner of the Issuer
+
+
+
+LLC
+Fund GP,
+
+
+119 South Main Street
+Suite 220
+Seattle
+WA
+WASHINGTON
+98104
+
+
+Director
+
+General partner of the Issuer
+
+
+
+
+Pooled Investment Fund
+
+Venture Capital Fund
+false
+
+
+
+Decline to Disclose
+
+
+06c
+3C.1
+
+
+
+false
+
+
+2023-01-07
+
+
+
+false
+
+
+true
+
+
+false
+
+2055
+
+
+549178
+49178
+500000
+
+
+false
+2
+
+
+
+0
+
+
+0
+
+
+
+
+20000
+true
+
+This amount represents a one-time fixed cost to cover fund organizational and operating expenses, including all regulatory filing fees, for the life of the fund.
+
+
+false
+
+Executive Enterprise Venture Fund, LP - B1
+Cathy Bui
+Cathy Bui
+Authorized Officer of the Manager of the Issuer's GP
+2023-01-11
+
+
+
+
+
+
+
+

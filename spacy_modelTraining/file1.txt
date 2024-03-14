@@ -1,0 +1,219 @@
+0001999975-23-000001.txt : 20231106
+0001999975-23-000001.hdr.sgml : 20231106
+20231106164444
+ACCESSION NUMBER:		0001999975-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+FILED AS OF DATE:		20231106
+DATE AS OF CHANGE:		20231106
+EFFECTIVENESS DATE:		20231106
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Barnyard Games, Inc.
+		CENTRAL INDEX KEY:			0001999975
+		IRS NUMBER:				933634395
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-496582
+		FILM NUMBER:		231380511
+
+	BUSINESS ADDRESS:	
+		STREET 1:		1318 CAMINITO LAURA
+		CITY:			ENCINITAS
+		STATE:			CA
+		ZIP:			92024
+		BUSINESS PHONE:		8583959820
+
+	MAIL ADDRESS:	
+		STREET 1:		1318 CAMINITO LAURA
+		CITY:			ENCINITAS
+		STATE:			CA
+		ZIP:			92024
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001999975
+Barnyard Games, Inc.
+
+1318 CAMINITO LAURA
+ENCINITAS
+CA
+CALIFORNIA
+92024
+
+8583959820
+DELAWARE
+
+None
+
+
+None
+
+Corporation
+
+true
+2023
+
+
+
+
+
+Matthew
+Armstrong
+
+
+1318 Caminito Laura
+Encinitas
+CA
+CALIFORNIA
+92024
+
+
+Promoter
+
+
+
+
+
+John
+Blakely
+
+
+1318 Caminito Laura
+Encinitas
+CA
+CALIFORNIA
+92024
+
+
+Executive Officer
+Director
+Promoter
+
+
+
+
+
+Mark
+Cieslar
+
+
+1318 Caminito Laura
+Encinitas
+CA
+CALIFORNIA
+92024
+
+
+Promoter
+
+
+
+
+
+Christopher
+Sturr
+
+
+1318 Caminito Laura
+Encinitas
+CA
+CALIFORNIA
+92024
+
+
+Executive Officer
+Director
+Promoter
+
+
+
+
+
+
+Other Technology
+
+
+Decline to Disclose
+
+
+06b
+
+
+
+false
+
+
+2023-10-20
+
+
+
+false
+
+
+true
+
+
+false
+
+
+0
+
+
+3380000
+3380000
+0
+
+
+
+false
+13
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Barnyard Games, Inc.
+John Blakely
+John Blakely
+CEO
+2023-11-06
+
+
+
+
+
+
+
+

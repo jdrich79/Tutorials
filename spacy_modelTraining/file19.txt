@@ -1,0 +1,219 @@
+0001962422-23-000001.txt : 20230117
+0001962422-23-000001.hdr.sgml : 20230117
+20230117091846
+ACCESSION NUMBER:		0001962422-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+FILED AS OF DATE:		20230117
+DATE AS OF CHANGE:		20230117
+EFFECTIVENESS DATE:		20230117
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Project Apex Holdings, LLC
+		CENTRAL INDEX KEY:			0001962422
+		IRS NUMBER:				921107151
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-470818
+		FILM NUMBER:		23530464
+
+	BUSINESS ADDRESS:	
+		STREET 1:		555 E EASY STREET
+		CITY:			SIMI VALLEY
+		STATE:			CA
+		ZIP:			93065
+		BUSINESS PHONE:		8059559699 EXT 16
+
+	MAIL ADDRESS:	
+		STREET 1:		555 E EASY STREET
+		CITY:			SIMI VALLEY
+		STATE:			CA
+		ZIP:			93065
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001962422
+Project Apex Holdings, LLC
+
+555 E EASY STREET
+SIMI VALLEY
+CA
+CALIFORNIA
+93065
+
+8059559699 EXT 16
+DELAWARE
+
+None
+
+
+None
+
+Limited Liability Company
+
+true
+2022
+
+
+
+
+
+Michael
+Seeman
+
+
+555 E Easy Street
+Simi Valley
+CA
+CALIFORNIA
+93065
+
+
+Executive Officer
+Director
+
+
+
+
+
+Andrew
+Wiechkoske
+
+
+620 Liberty Ave
+22nd FL
+Pittsburgh
+PA
+PENNSYLVANIA
+15222
+
+
+Director
+
+
+
+
+
+Andrew
+Barza
+
+
+620 Liberty Ave
+22nd FL
+Pittsburgh
+PA
+PENNSYLVANIA
+15222
+
+
+Director
+
+
+
+
+
+Daniel
+Seeman
+
+
+555 E Easy Street
+Simi Valley
+CA
+CALIFORNIA
+93065
+
+
+Executive Officer
+Director
+
+
+
+
+
+
+Other
+
+
+Decline to Disclose
+
+
+06b
+
+
+
+false
+
+
+2023-01-10
+
+
+
+false
+
+
+true
+
+
+true
+The proceeds from the offering described herein were used to fund an acquisition of a privately owned company.
+
+0
+
+
+70000000
+70000000
+0
+
+
+
+false
+4
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Project Apex Holdings, LLC
+Michael Seeman
+Michael Seeman
+Chief Financial Officer
+2023-01-17
+
+
+
+
+
+
+
+

@@ -1,0 +1,257 @@
+0001978442-23-000002.txt : 20230523
+0001978442-23-000002.hdr.sgml : 20230523
+20230523092414
+ACCESSION NUMBER:		0001978442-23-000002
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(1)
+FILED AS OF DATE:		20230523
+DATE AS OF CHANGE:		20230523
+EFFECTIVENESS DATE:		20230523
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MA-0319 Fund II AL Vehicle, a series of Umami Capital, LP
+		CENTRAL INDEX KEY:			0001978442
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-482357
+		FILM NUMBER:		23946714
+
+	BUSINESS ADDRESS:	
+		STREET 1:		119 SOUTH MAIN STREET
+		STREET 2:		SUITE 220
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+		BUSINESS PHONE:		2068016359
+
+	MAIL ADDRESS:	
+		STREET 1:		119 SOUTH MAIN STREET
+		STREET 2:		SUITE 220
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			MA-0319 Fund II, a series of Umami Capital, LP
+		CENTRAL INDEX KEY:			0001978438
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-482357-01
+		FILM NUMBER:		23946715
+
+	BUSINESS ADDRESS:	
+		STREET 1:		119 SOUTH MAIN STREET
+		STREET 2:		SUITE 220
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+		BUSINESS PHONE:		2068016359
+
+	MAIL ADDRESS:	
+		STREET 1:		119 SOUTH MAIN STREET
+		STREET 2:		SUITE 220
+		CITY:			SEATTLE
+		STATE:			WA
+		ZIP:			98104
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001978442
+MA-0319 Fund II AL Vehicle, a series of Umami Capital, LP
+
+119 SOUTH MAIN STREET
+SUITE 220
+SEATTLE
+WA
+WASHINGTON
+98104
+
+2068016359
+DELAWARE
+
+None
+
+
+None
+
+Limited Partnership
+
+true
+2023
+
+
+
+
+0001978438
+MA-0319 Fund II, a series of Umami Capital, LP
+
+119 SOUTH MAIN STREET
+SUITE 220
+SEATTLE
+WA
+WASHINGTON
+98104
+
+2068016359
+DELAWARE
+
+None
+
+
+None
+
+Limited Partnership
+
+true
+2023
+
+
+
+
+
+
+LLC
+Fund GP,
+
+
+PO Box 3217
+Seattle
+WA
+WASHINGTON
+98114
+
+
+Director
+
+General partner of the Issuers
+
+
+
+Ltd.
+Belltower Fund Group,
+
+
+119 South Main St, Suite 220
+Seattle
+WA
+WASHINGTON
+98104
+
+
+Director
+
+Manager of the general partner of the Issuers
+
+
+
+
+Pooled Investment Fund
+
+Venture Capital Fund
+false
+
+
+
+Decline to Disclose
+
+
+06b
+3C
+3C.1
+
+
+
+false
+
+
+2023-05-18
+
+
+
+false
+
+
+true
+
+
+false
+
+
+1000
+
+
+106799
+106799
+0
+Amounts shown here include totals from the Issuer and a parallel fund of the Issuer.
+
+
+false
+19
+
+
+
+0
+
+
+0
+
+
+
+
+
+4977
+true
+
+This amount represents the dollar value of a one-time fee and an annual fee paid to the fund administrator and/or its affiliates to cover administrative expenses for the life of the fund.
+
+
+false
+
+MA-0319 Fund II AL Vehicle, a series of Umami Capital, LP
+/s/ Cathy Bui
+Cathy Bui
+Authorized Officer of the Manager of Issuers' GP
+2023-05-23
+
+
+MA-0319 Fund II, a series of Umami Capital, LP
+/s/ Cathy Bui
+Cathy Bui
+Authorized Officer of the Manager of Issuers' GP
+2023-05-23
+
+
+
+
+
+
+
+

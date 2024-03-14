@@ -1,0 +1,231 @@
+0001982695-23-000004.txt : 20230626
+0001982695-23-000004.hdr.sgml : 20230626
+20230626115941
+ACCESSION NUMBER:		0001982695-23-000004
+CONFORMED SUBMISSION TYPE:	D/A
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(7)
+FILED AS OF DATE:		20230626
+DATE AS OF CHANGE:		20230626
+EFFECTIVENESS DATE:		20230626
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Long Duration Fund LLC
+		CENTRAL INDEX KEY:			0001619603
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-316875
+		FILM NUMBER:		231040665
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2029 CENTURY PARK EAST
+		STREET 2:		SUITE 2010
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+		BUSINESS PHONE:		310-785-9755
+
+	MAIL ADDRESS:	
+		STREET 1:		2029 CENTURY PARK EAST
+		STREET 2:		SUITE 2010
+		CITY:			LOS ANGELES
+		STATE:			CA
+		ZIP:			90067
+
+
+D/A
+1
+primary_doc.xml
+
+
+
+
+X0708
+D/A
+LIVE
+
+0001619603
+Long Duration Fund LLC
+
+11111 Santa Monica Blvd
+Suite 300
+LOS ANGELES
+CA
+CALIFORNIA
+90025
+
+310-785-9755
+DELAWARE
+
+None
+
+
+None
+
+Limited Liability Company
+
+true
+
+
+
+
+
+John
+B.
+Wagner
+
+
+11111 Santa Monica Blvd
+Suite 300
+Los Angeles
+CA
+CALIFORNIA
+90025
+
+
+Executive Officer
+
+of the Issuer's Manager
+
+
+
+Alexander
+Lach
+
+
+11111 Santa Monica Blvd
+Suite 300
+Los Angeles
+CA
+CALIFORNIA
+90025
+
+
+Executive Officer
+
+of the Issuer's Manager
+
+
+
+David
+Lindberg
+
+
+11111 Santa Monica Blvd
+Suite 300
+Los Angeles
+CA
+CALIFORNIA
+90025
+
+
+Executive Officer
+
+of the Issuer's Manager
+
+
+
+Scott
+Lange
+
+
+11111 Santa Monica Blvd
+Suite 300
+Los Angeles
+CA
+CALIFORNIA
+90025
+
+
+Executive Officer
+
+of the Issuer's Manager
+
+
+
+
+Pooled Investment Fund
+
+Hedge Fund
+false
+
+
+
+Decline to Disclose
+
+
+06b
+3C
+3C.7
+
+
+
+true
+0001935782-22-000001
+
+
+2019-02-01
+
+
+
+true
+
+
+true
+
+
+false
+
+
+0
+
+
+Indefinite
+150000000
+Indefinite
+
+
+
+false
+2
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Long Duration Fund LLC
+/s/ Michelle Bergren
+Michelle Bergren
+Chief Compliance Officer
+2023-06-23
+
+
+
+
+
+
+
+

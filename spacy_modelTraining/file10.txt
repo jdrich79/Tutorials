@@ -1,0 +1,199 @@
+0000919574-23-002983.txt : 20230512
+0000919574-23-002983.hdr.sgml : 20230512
+20230512091746
+ACCESSION NUMBER:		0000919574-23-002983
+CONFORMED SUBMISSION TYPE:	D/A
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(1)
+FILED AS OF DATE:		20230512
+DATE AS OF CHANGE:		20230512
+EFFECTIVENESS DATE:		20230512
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Meditation Capital Partners LP
+		CENTRAL INDEX KEY:			0001926595
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-445460
+		FILM NUMBER:		23913522
+
+	BUSINESS ADDRESS:	
+		STREET 1:		2500 PLAZA 5, 25TH FLOOR, OFFICE 2561
+		STREET 2:		HARBORSIDE FINANCIAL CENTER
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07311
+		BUSINESS PHONE:		248-930-2441
+
+	MAIL ADDRESS:	
+		STREET 1:		2500 PLAZA 5, 25TH FLOOR, OFFICE 2561
+		STREET 2:		HARBORSIDE FINANCIAL CENTER
+		CITY:			JERSEY CITY
+		STATE:			NJ
+		ZIP:			07311
+
+
+D/A
+1
+primary_doc.xml
+
+
+
+
+X0708
+D/A
+LIVE
+
+0001926595
+Meditation Capital Partners LP
+
+2500 PLAZA 5
+25TH FLOOR, OFFICE 2561
+JERSEY CITY
+NJ
+NEW JERSEY
+07311
+
+248-930-2441
+DELAWARE
+
+None
+
+
+None
+
+Limited Partnership
+
+true
+2022
+
+
+
+
+
+--
+Meditation Capital (GP) LLC
+
+
+2500 PLAZA 5
+25TH FLOOR, OFFICE 2561
+Jersey City
+NJ
+NEW JERSEY
+07311
+
+
+Executive Officer
+Promoter
+
+General Partner
+
+
+
+--
+Meditation Capital Management LP
+
+
+2500 PLAZA 5
+25TH FLOOR, OFFICE 2561
+Jersey City
+NJ
+NEW JERSEY
+07311
+
+
+Executive Officer
+Promoter
+
+Investment Manager
+
+
+
+
+Pooled Investment Fund
+
+Hedge Fund
+false
+
+
+
+Decline to Disclose
+
+
+06b
+3C
+3C.1
+
+
+
+true
+0000919574-22-003111
+
+
+2022-04-29
+
+
+
+true
+
+
+true
+true
+
+
+false
+
+0
+
+
+Indefinite
+6150000
+Indefinite
+
+
+false
+14
+
+
+
+0
+true
+
+
+0
+true
+
+
+
+
+
+0
+true
+
+The Investment Manager receives customary management fees.
+
+
+false
+
+Meditation Capital Partners LP
+/s/ Timothy Liu
+Timothy Liu
+Member of the General Partner
+2023-05-12
+
+
+
+
+
+
+
+

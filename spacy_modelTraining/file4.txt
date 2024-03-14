@@ -1,0 +1,165 @@
+0001988284-23-000001.txt : 20230906
+0001988284-23-000001.hdr.sgml : 20230906
+20230906155930
+ACCESSION NUMBER:		0001988284-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+FILED AS OF DATE:		20230906
+DATE AS OF CHANGE:		20230906
+EFFECTIVENESS DATE:		20230906
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			TDO Enterprises, LLC
+		CENTRAL INDEX KEY:			0001988284
+		IRS NUMBER:				932260909
+		STATE OF INCORPORATION:			TX
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-491456
+		FILM NUMBER:		231239079
+
+	BUSINESS ADDRESS:	
+		STREET 1:		500 W. ILLINOIS AVE., SUITE 602
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79701
+		BUSINESS PHONE:		(432) 664-0481
+
+	MAIL ADDRESS:	
+		STREET 1:		500 W. ILLINOIS AVE., SUITE 602
+		CITY:			MIDLAND
+		STATE:			TX
+		ZIP:			79701
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001988284
+TDO Enterprises, LLC
+
+500 W. ILLINOIS AVE., SUITE 602
+MIDLAND
+TX
+TEXAS
+79701
+
+(432) 664-0481
+TEXAS
+
+None
+
+
+None
+
+Limited Liability Company
+
+true
+2023
+
+
+
+
+
+David
+Fowler
+
+
+500 W. Illinois Ave., Suite 602
+Midland
+TX
+TEXAS
+79701
+
+
+Director
+
+Manager of the Management Company of the Issuer (TDO Management, LLC)
+
+
+
+
+Other
+
+
+Decline to Disclose
+
+
+06b
+
+
+
+false
+
+
+2023-08-28
+
+
+
+false
+
+
+true
+
+
+false
+
+
+25000
+
+
+17836742
+17836742
+0
+
+
+
+true
+25
+47
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+TDO Enterprises, LLC
+/s/ David Fowler
+David Fowler
+Manager of the Management Company of the Issuer
+2023-09-01
+
+
+
+
+
+
+
+

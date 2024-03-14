@@ -1,0 +1,192 @@
+0001966648-23-000005.txt : 20230417
+0001966648-23-000005.hdr.sgml : 20230417
+20230417172833
+ACCESSION NUMBER:		0001966648-23-000005
+CONFORMED SUBMISSION TYPE:	D/A
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(7)
+FILED AS OF DATE:		20230417
+DATE AS OF CHANGE:		20230417
+EFFECTIVENESS DATE:		20230417
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hedge Fund Select: Empyrean Ltd
+		CENTRAL INDEX KEY:			0001668686
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-259165
+		FILM NUMBER:		23824894
+
+	BUSINESS ADDRESS:	
+		STREET 1:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282-2198
+		BUSINESS PHONE:		212-902-1000
+
+	MAIL ADDRESS:	
+		STREET 1:		200 WEST STREET
+		CITY:			NEW YORK
+		STATE:			NY
+		ZIP:			10282-2198
+
+
+D/A
+1
+primary_doc.xml
+
+
+
+
+X0708
+D/A
+LIVE
+
+0001668686
+Hedge Fund Select: Empyrean Ltd
+
+200 WEST STREET
+NEW YORK
+NY
+NEW YORK
+10282-2198
+
+212-902-1000
+CAYMAN ISLANDS
+
+None
+
+
+None
+
+Other
+Exempted Limited Company
+
+true
+
+
+
+
+
+Helen
+A.
+Crowley
+
+
+200 West Street
+New York
+NY
+NEW YORK
+10282-2198
+
+
+Director
+
+
+
+
+
+
+Pooled Investment Fund
+
+Other Investment Fund
+false
+
+
+
+Decline to Disclose
+
+
+06b
+3C
+3C.7
+
+
+
+true
+0001921996-22-000003
+
+
+2016-02-26
+
+
+
+true
+
+
+true
+
+
+false
+
+
+0
+
+
+Goldman Sachs & Co. LLC
+361
+None
+None
+
+200 West Street
+New York
+NY
+NEW YORK
+10282-2198
+
+
+All States
+
+false
+
+
+
+Indefinite
+13098500
+Indefinite
+
+
+
+false
+11
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Hedge Fund Select: Empyrean Ltd
+/s/ Helen A. Crowley
+Helen A. Crowley
+Managing Director of the Issuer's Investment Manager
+2023-04-17
+
+
+
+
+
+
+
+

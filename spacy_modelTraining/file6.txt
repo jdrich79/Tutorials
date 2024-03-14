@@ -1,0 +1,170 @@
+0001977758-23-000001.txt : 20230803
+0001977758-23-000001.hdr.sgml : 20230803
+20230803170333
+ACCESSION NUMBER:		0001977758-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(1)
+FILED AS OF DATE:		20230803
+DATE AS OF CHANGE:		20230803
+EFFECTIVENESS DATE:		20230803
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Ohio Innovation Fund II, L.P.
+		CENTRAL INDEX KEY:			0001977758
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-488715
+		FILM NUMBER:		231141071
+
+	BUSINESS ADDRESS:	
+		STREET 1:		6515 LONGSHORE LOOP, SUITE 100
+		CITY:			DUBLIN
+		STATE:			OH
+		ZIP:			43017
+		BUSINESS PHONE:		(408) 550-5342
+
+	MAIL ADDRESS:	
+		STREET 1:		6515 LONGSHORE LOOP, SUITE 100
+		CITY:			DUBLIN
+		STATE:			OH
+		ZIP:			43017
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001977758
+Ohio Innovation Fund II, L.P.
+
+6515 LONGSHORE LOOP, SUITE 100
+DUBLIN
+OH
+OHIO
+43017
+
+(408) 550-5342
+DELAWARE
+
+None
+
+
+None
+
+Limited Partnership
+
+true
+2023
+
+
+
+
+
+Ohio Innovation Management II, L.L.C.
+N/A
+
+
+6515 Longshore Loop, Suite 100
+Dublin
+OH
+OHIO
+43017
+
+
+Promoter
+
+General Partner of the Issuer
+
+
+
+
+Pooled Investment Fund
+
+Venture Capital Fund
+false
+
+
+
+Not Applicable
+
+
+3C
+3C.1
+
+
+
+false
+
+
+true
+
+
+
+false
+
+
+true
+
+
+false
+
+
+0
+
+
+Indefinite
+0
+Indefinite
+
+
+
+false
+0
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Ohio Innovation Fund II, L.P.
+/s/ Bill Baumel
+Bill Baumel
+Managing Member of the GP of the Issuer
+2023-08-03
+
+
+
+
+
+
+
+

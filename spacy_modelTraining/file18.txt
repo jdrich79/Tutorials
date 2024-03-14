@@ -1,0 +1,191 @@
+0001964270-23-000001.txt : 20230208
+0001964270-23-000001.hdr.sgml : 20230208
+20230207180416
+ACCESSION NUMBER:		0001964270-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(1)
+ITEM INFORMATION:		Section 3(c)(7)
+FILED AS OF DATE:		20230208
+DATE AS OF CHANGE:		20230207
+EFFECTIVENESS DATE:		20230208
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Edgewater Capital Partners V, LP
+		CENTRAL INDEX KEY:			0001964270
+		IRS NUMBER:				884258286
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-472891
+		FILM NUMBER:		23596416
+
+	BUSINESS ADDRESS:	
+		STREET 1:		5005 ROCKSIDE ROAD, PH 1300
+		CITY:			INDEPENDENCE
+		STATE:			OH
+		ZIP:			44131
+		BUSINESS PHONE:		216-292-3838
+
+	MAIL ADDRESS:	
+		STREET 1:		5005 ROCKSIDE ROAD, PH 1300
+		CITY:			INDEPENDENCE
+		STATE:			OH
+		ZIP:			44131
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001964270
+Edgewater Capital Partners V, LP
+
+5005 ROCKSIDE ROAD, PH 1300
+INDEPENDENCE
+OH
+OHIO
+44131
+
+216-292-3838
+DELAWARE
+
+None
+
+
+None
+
+Limited Partnership
+
+true
+2022
+
+
+
+
+
+Christopher
+Childres
+
+
+5005 Rockside Road, PH 1300
+Independence
+OH
+OHIO
+44131
+
+
+Executive Officer
+
+Mr. Childres is a Member of the General Partner, Edgewater Group V, LLC.
+
+
+
+Brian
+Leonard
+
+
+5005 Rockside Road, PH 1300
+Independence
+OH
+OHIO
+44131
+
+
+Executive Officer
+
+Mr. Leonard is the Managing Partner of the General Partner, Edgewater Group V, LLC.
+
+
+
+
+Pooled Investment Fund
+
+Private Equity Fund
+false
+
+
+
+Decline to Disclose
+
+
+06b
+3C
+3C.1
+3C.7
+
+
+
+false
+
+
+2023-01-27
+
+
+
+true
+
+
+true
+
+
+false
+
+
+0
+
+
+110000000
+110000000
+0
+
+
+
+false
+10
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Edgewater Capital Partners V, LP
+Brian N. Leonard
+Brian N. Leonard
+Managing Partner of General Partner Edgewater Group V, LLC
+2023-02-07
+
+
+
+
+
+
+
+

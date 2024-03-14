@@ -1,0 +1,357 @@
+0000919574-23-001848.txt : 20230223
+0000919574-23-001848.hdr.sgml : 20230223
+20230223093847
+ACCESSION NUMBER:		0000919574-23-001848
+CONFORMED SUBMISSION TYPE:	D/A
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+ITEM INFORMATION:		Investment Company Act Section 3(c)
+ITEM INFORMATION:		Section 3(c)(7)
+FILED AS OF DATE:		20230223
+DATE AS OF CHANGE:		20230223
+EFFECTIVENESS DATE:		20230223
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Hawkes Bay Investors (Cayman), Ltd.
+		CENTRAL INDEX KEY:			0001537577
+		IRS NUMBER:				000000000
+		STATE OF INCORPORATION:			E9
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D/A
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-170888
+		FILM NUMBER:		23656754
+
+	BUSINESS ADDRESS:	
+		STREET 1:		OGIER GLOBAL (CAYMAN) LIMITED
+		STREET 2:		89 NEXUS WAY, CAMANA BAY
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-9009
+		BUSINESS PHONE:		617-951-5372
+
+	MAIL ADDRESS:	
+		STREET 1:		OGIER GLOBAL (CAYMAN) LIMITED
+		STREET 2:		89 NEXUS WAY, CAMANA BAY
+		CITY:			GRAND CAYMAN
+		STATE:			E9
+		ZIP:			KY1-9009
+
+	FORMER COMPANY:	
+		FORMER CONFORMED NAME:	Hawkes Bay Investors (Cayman) Ltd.
+		DATE OF NAME CHANGE:	20111216
+
+
+D/A
+1
+primary_doc.xml
+
+
+
+
+X0708
+D/A
+LIVE
+
+0001537577
+Hawkes Bay Investors (Cayman), Ltd.
+
+OGIER GLOBAL (CAYMAN) LIMITED
+89 NEXUS WAY, CAMANA BAY
+GRAND CAYMAN
+E9
+CAYMAN ISLANDS
+KY1-9009
+
+617-951-5372
+CAYMAN ISLANDS
+
+None
+
+
+Hawkes Bay Investors (Cayman) Ltd.
+
+Other
+Cayman Islands Exempted Company
+
+true
+
+
+
+
+
+Matthew
+N.
+Shea
+
+
+Wellington Management Company LLP
+280 Congress Street
+Boston
+MA
+MASSACHUSETTS
+02210
+
+
+Director
+
+
+
+
+Jonathan
+C.
+Conant
+
+
+Wellington Management Company LLP
+280 Congress Street
+Boston
+MA
+MASSACHUSETTS
+02210
+
+
+Director
+
+
+
+
+Helen
+E.
+Clement
+
+
+Wellington Management Company LLP
+280 Congress Street
+Boston
+MA
+MASSACHUSETTS
+02210
+
+
+Director
+
+
+
+
+Michael
+J.
+Feder
+
+
+Wellington Management Company LLP
+280 Congress Street
+Boston
+MA
+MASSACHUSETTS
+02210
+
+
+Director
+
+
+
+
+--
+Wellington Management Company LLP
+
+
+280 Congress Street
+Boston
+MA
+MASSACHUSETTS
+02210
+
+
+Executive Officer
+
+Investment Manager
+
+
+
+--
+Wellington Alternative Investments LLC
+
+
+280 Congress Street
+Boston
+MA
+MASSACHUSETTS
+02210
+
+
+Executive Officer
+
+Manager
+
+
+
+
+Pooled Investment Fund
+
+Hedge Fund
+false
+
+
+
+Decline to Disclose
+
+
+06b
+3C
+3C.7
+
+
+
+true
+0000919574-22-001887
+
+
+2007-01-02
+
+
+
+true
+
+
+true
+true
+
+
+false
+
+100000
+
+
+Wellington Funds Distributors Inc.
+152768
+None
+None
+
+280 CONGRESS STREET
+BOSTON
+MA
+MASSACHUSETTS
+02210
+
+
+All States
+
+false
+
+
+Merrill Lynch, Pierce, Fenner & Smith Incorporated
+7691
+None
+None
+
+ONE BRYANT PARK
+NEW YORK
+NY
+NEW YORK
+10036
+
+
+All States
+
+false
+
+
+Deutsche Bank Securities Inc.
+2525
+None
+None
+
+1 COLUMBUS CIRCLE
+NEW YORK
+NY
+NEW YORK
+10019
+
+
+All States
+
+false
+
+
+Morgan Stanley Smith Barney LLC
+149777
+None
+None
+
+2000 WESTCHESTER AVENUE
+PURCHASE
+NY
+NEW YORK
+10577-2530
+
+
+All States
+
+false
+
+
+Rockefeller Financial LLC
+291361
+None
+None
+
+45 ROCKEFELLER PLAZA, FLOOR 5
+NEW YORK
+NY
+NEW YORK
+10111
+
+
+All States
+
+false
+
+
+
+Indefinite
+219647330
+Indefinite
+
+
+false
+155
+
+
+
+786748
+true
+
+
+0
+true
+
+
+
+
+
+0
+true
+
+The Investment Manager and its affiliates receive customary management fees.
+
+
+false
+
+Hawkes Bay Investors (Cayman), Ltd.
+/s/ Matthew N. Shea
+Matthew N. Shea
+Director
+2023-02-23
+
+
+
+
+
+
+
+

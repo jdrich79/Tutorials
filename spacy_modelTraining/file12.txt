@@ -1,0 +1,168 @@
+0001960623-23-000001.txt : 20230504
+0001960623-23-000001.hdr.sgml : 20230504
+20230504131526
+ACCESSION NUMBER:		0001960623-23-000001
+CONFORMED SUBMISSION TYPE:	D
+PUBLIC DOCUMENT COUNT:		1
+ITEM INFORMATION:		06b
+FILED AS OF DATE:		20230504
+DATE AS OF CHANGE:		20230504
+EFFECTIVENESS DATE:		20230504
+
+FILER:
+
+	COMPANY DATA:	
+		COMPANY CONFORMED NAME:			Skydeo Inc
+		CENTRAL INDEX KEY:			0001960623
+		IRS NUMBER:				474676021
+		STATE OF INCORPORATION:			DE
+		FISCAL YEAR END:			1231
+
+	FILING VALUES:
+		FORM TYPE:		D
+		SEC ACT:		1933 Act
+		SEC FILE NUMBER:	021-480821
+		FILM NUMBER:		23887683
+
+	BUSINESS ADDRESS:	
+		STREET 1:		98 SAN JACINTO BLVD.
+		STREET 2:		SUITE 400
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701
+		BUSINESS PHONE:		512-900-8390
+
+	MAIL ADDRESS:	
+		STREET 1:		98 SAN JACINTO BLVD.
+		STREET 2:		SUITE 400
+		CITY:			AUSTIN
+		STATE:			TX
+		ZIP:			78701
+
+
+D
+1
+primary_doc.xml
+
+
+
+
+X0708
+D
+LIVE
+
+0001960623
+Skydeo Inc
+
+98 SAN JACINTO BLVD.
+SUITE 400
+AUSTIN
+TX
+TEXAS
+78701
+
+512-900-8390
+DELAWARE
+
+None
+
+
+None
+
+Corporation
+
+true
+
+
+
+
+
+MIchael
+Ford
+
+
+98 San Jacinto Blvd
+Suite 400
+Austin
+TX
+TEXAS
+78701
+
+
+Executive Officer
+Director
+
+
+
+
+
+
+Business Services
+
+
+Decline to Disclose
+
+
+06b
+
+
+
+false
+
+
+2023-04-25
+
+
+
+false
+
+
+true
+
+
+false
+
+
+0
+
+
+1234976
+834066
+400910
+
+
+
+false
+10
+
+
+
+0
+
+
+0
+
+
+
+
+
+0
+
+
+
+
+false
+
+Skydeo Inc
+Michael Ford
+Michael Ford
+CEO
+2023-05-04
+
+
+
+
+
+
+
+
